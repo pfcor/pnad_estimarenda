@@ -1,0 +1,42 @@
+﻿UF - uf
+V0302 - sexo
+V8005 - idade
+V0401 - condicao unidade domiciliar
+V0404 - raca
+V4011 - estado civil
+V0601 - alfabetizado
+V0602 - estuda
+*V6003 - curso que frequenta
+*V0606 - estudou antes
+*V6007 - curso mais avancado
+V061113 - TARGET: acessou internet via celular
+V9001 - trabalha
+*V9906 - cod ocupacao
+*V9907 - cod atividade
+*V9054 - tipo estabelecimento trabalho
+*V9057 - tempo percurso ate trabalho
+*V9058 - horas semanais trabalho
+*V9062 - saiu de algum trabalho
+V9891 - faixa de idade que comecou a trabalhar
+*V9118 - buscou emprego
+V9121 - afazeres domesticos
+V9122 - aposentado
+V9123 - pensionista
+*V4803 - anos de estudo
+V4713 - condicao de atividade
+V4814 - consicao de ocupacao
+V4715 - posicao na ocupacao
+V4707 - horas trabalhadas or semana (intervalos)
+V4748 - agricola
+V4816 - grupamento atividade
+V4817 - grupamento ocupacional
+*V4718 - rendimento trabalho principal
+*V4719 - rendimento trabalho
+*V4720 - rendimento geral
+V4723 - tipo de familia
+V4838 - anos estudo grupo
+*V4742 - rendimento mensal domiciliar per capita
+V4743 - faixa rendimento mensal domiciliar per capita
+V4728 - situação censitária
+V4741 - numero pessoas domicilio
+V4745 - nivel de instrucao mais elevado
